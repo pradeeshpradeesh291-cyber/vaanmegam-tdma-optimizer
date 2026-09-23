@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE emaneevent SYSTEM "file:///usr/share/emane/dtd/tdmascheduleevent.dtd">
+<emaneevent module="tdmaschedule">
+  <tdmaschedule>
+    <structure frames="1" slots="9">
+      <slot index="0" duration="1000"/> <!-- 1ms slot duration -->
+    </structure>
+    <schedules>
+      <entry nem="1">
+        <frequency slot="8" channel="0"/>
+        <tx slot="8"/>
+        <rx slot="8"/>
+      </entry>
+      <entry nem="2">
+        <frequency slot="4" channel="0"/>
+        <tx slot="4"/>
+        <rx slot="4"/>
+      </entry>
+      <entry nem="3">
+        <frequency slot="5" channel="0"/>
+        <tx slot="5"/>
+        <rx slot="5"/>
+      </entry>
+      <entry nem="4">
+        <frequency slot="8" channel="0"/>
+        <tx slot="8"/>
+        <rx slot="8"/>
+      </entry>
+      <entry nem="5">
+        <frequency slot="6" channel="0"/>
+        <tx slot="6"/>
+        <rx slot="6"/>
+      </entry>
+      <entry nem="6">
+        <frequency slot="0" channel="0"/>
+        <tx slot="0"/>
+        <rx slot="0"/>
+      </entry>
+      <entry nem="7">
+        <frequency slot="1" channel="0"/>
+        <tx slot="1"/>
+        <rx slot="1"/>
+      </entry>
+      <entry nem="8">
+        <frequency slot="6" channel="0"/>
+        <tx slot="6"/>
+        <rx slot="6"/>
+      </entry>
+      <entry nem="9">
+        <frequency slot="7" channel="0"/>
+        <tx slot="7"/>
+        <rx slot="7"/>
+      </entry>
+      <entry nem="10">
+        <frequency slot="2" channel="0"/>
+        <tx slot="2"/>
+        <rx slot="2"/>
+      </entry>
+      <entry nem="11">
+        <frequency slot="3" channel="0"/>
+        <tx slot="3"/>
+        <rx slot="3"/>
+      </entry>
+      <entry nem="12">
+        <frequency slot="7" channel="0"/>
+        <tx slot="7"/>
+        <rx slot="7"/>
+      </entry>
+      <entry nem="13">
+        <frequency slot="8" channel="0"/>
+        <tx slot="8"/>
+        <rx slot="8"/>
+      </entry>
+      <entry nem="14">
+        <frequency slot="4" channel="0"/>
+        <tx slot="4"/>
+        <rx slot="4"/>
+      </entry>
+      <entry nem="15">
+        <frequency slot="5" channel="0"/>
+        <tx slot="5"/>
+        <rx slot="5"/>
+      </entry>
+      <entry nem="16">
+        <frequency slot="8" channel="0"/>
+        <tx slot="8"/>
+        <rx slot="8"/>
+      </entry>
+    </schedules>
+  </tdmaschedule>
+</emaneevent>
