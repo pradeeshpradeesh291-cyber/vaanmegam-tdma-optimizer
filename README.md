@@ -2,8 +2,8 @@
 
 **Vaan Megam Networks (VMN) — Full-Time Internship Technical Assessment**  
 **Domain:** Wireless Protocol Development | 5G Secure Private Networks, Tactical MANET & SDR  
-**Candidate:** devpradeesh  
-**Submission Date:** September 2026  
+**Candidate:** Pradeesh R 
+**Submission Date:** 24 September 2026  
 
 ---
 
